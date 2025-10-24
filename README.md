@@ -198,5 +198,7 @@ If you use this workflow, please cite:
 ---
 
 ## 🧑‍💻 Author
+**James Baker**
+*Ecology and Evolution Group, UK Centre for Ecology & Hydrology (UKCEH)*
 **Susheel Bhanu Busi**  
 *Molecular Ecology Group, UK Centre for Ecology & Hydrology (UKCEH)*  
